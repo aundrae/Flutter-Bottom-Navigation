@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 
 class SecondFragment extends StatelessWidget{
   @override
+
+  SecondFragment();
+
   Widget build(BuildContext context) {
     // TODO: implement build
     return new Scaffold(
